@@ -1,0 +1,20 @@
+CREATE TABLE store (id INTEGER PRIMARY KEY, name TEXT, quantity INTEGER, aisle INTEGER, on_sale TEXT, last_stocked text );
+
+INSERT INTO store VALUES (1, "BANANAS", 4,4,"no","2/1/2022");
+INSERT INTO store VALUES (2, "CHICKEN", 3,5,"yes","2/1/2022");
+INSERT INTO store VALUES (3, "ice", 48,1,"no",5/1/2021);
+INSERT INTO store VALUES (4, "melon", 48,4,"no",5/1/2021);
+INSERT INTO store VALUES (5, "soda", 48,6,"no",5/1/2021);
+INSERT INTO store VALUES (6, "deodorant", 48,7,"yes",5/1/2021);
+INSERT INTO store VALUES (7, "pineapple", 48,5,"no",5/1/2021);
+INSERT INTO store VALUES (8, "wine", 48,6,"no",5/1/2021);
+INSERT INTO store VALUES (9, "salt", 48,8,"no",5/1/2021);
+INSERT INTO store VALUES (10, "pepper", 48,8,"no",5/1/2021);
+INSERT INTO store VALUES (11, "garlic", 48,8,"yes",5/1/2021);
+INSERT INTO store VALUES (12, "bread", 48,10,"no",5/1/2021);
+INSERT INTO store VALUES (13, "chips", 48,9,"yes",4/1/2021);
+INSERT INTO store VALUES (14, "lettuce", 48,4,"no",5/1/2021);
+INSERT INTO store VALUES (15, "tomatoes", 48,4,"no",5/1/2021);
+INSERT INTO store VALUES (16, "onions", 48,4,"no",5/1/2021);
+
+select * from store
