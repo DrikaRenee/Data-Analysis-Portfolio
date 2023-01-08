@@ -35,7 +35,7 @@ The data can be assumed to be accurate, it has a 10.00 usability score (out of 1
 
 ## Process
 
-After importing data, the data was checked for any anomalies. The following columns were omitted due to non-relevance: key, speachiness, acousticness, intrummentalness, liveness, time_signature, modality.
+After importing data, the data was checked for any anomalies. The following columns were omitted due to non-relevance: key, speachiness, acousticness, instrumentalness, liveness, time_signature, modality.
 
 ## Analyze
 
