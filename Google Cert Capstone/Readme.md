@@ -35,16 +35,14 @@ The data can be assumed to be accurate, it has a 10.00 usability score (out of 1
 
 ## Process
 
-After importing data, the data was checked for any anomalies. 
+After importing data, the data was checked for any anomalies. The following columns were omitted due to non-relevance: key, speachiness, acousticness, intrummentalness, liveness, time_signature, modality.
 
 ## Analyze
 
-The data was analyzed using MySQL using various queries. LINK FILE HERE
+The data was analyzed using SQL using various queries.
 
 ## Share
 
-Visualization completed using Tableau. The dashboard can be found here:
+Visualization completed using Tableau. The dashboard can be found here: [Spotify Playlist Data](https://public.tableau.com/app/profile/chandrika.jones/viz/Playlist_16731880280790/Dashboard1)
 
-## Act
 
-A powerpoint was composed with findings. LINK FILE HERE
