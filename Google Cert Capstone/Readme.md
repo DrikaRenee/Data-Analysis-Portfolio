@@ -43,6 +43,6 @@ The data was analyzed using SQL using various queries.
 
 ## Share
 
-Visualization completed using Tableau. The dashboard can be found here: [Spotify Playlist Data](https://public.tableau.com/app/profile/chandrika.jones/viz/Playlist_16731880280790/Dashboard1)
+Visualization completed using Tableau. The dashboard can be found here: [Spotify Playlist Data](https://public.tableau.com/views/Playlist_16731880280790/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
